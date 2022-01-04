@@ -1,0 +1,1 @@
+# Tugas-UAS-SPK-Stemming-and-Lemmatization-
